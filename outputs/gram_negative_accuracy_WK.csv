@@ -1,0 +1,28 @@
+bac,count,accuracy,bacteremia_accuracy
+Acinetobacter lwoffii/haemolyticus,1,1.0,1.0
+Aeromonas hydrophila,2,1.0,1.0
+Aeromonas sobria,2,0.5,1.0
+Aeromonas veronii,1,1.0,1.0
+Bacteroides caccae,1,0.0,1.0
+Citrobacter farmeri,1,1.0,1.0
+Citrobacter koseri,1,1.0,1.0
+Coagulase negative Staphylococcus spp.(CNS）,3,0.3333333333333333,0.6666666666666666
+Enterobacter aerogenes,2,1.0,1.0
+Enterobacter cloacae,1,1.0,1.0
+Escherichia coli,114,0.6842105263157895,0.8859649122807017
+Fusobacterium necrogenes,1,1.0,1.0
+Fusobacterium nucleatum,1,1.0,1.0
+Klebsiella pneumoniae ssp. ozaenae,1,1.0,1.0
+Klebsiella pneumoniae ssp. pneumoniae,31,0.7096774193548387,0.967741935483871
+Moraxella catarrhalis,1,0.0,1.0
+Pasteurella multocida,1,1.0,1.0
+Proteus mirabilis,7,0.8571428571428571,1.0
+Proteus vulgaris/penneri,1,0.0,1.0
+Providencia rettgeri,1,1.0,1.0
+Providencia stuartii,1,0.0,1.0
+Pseudomonas aeruginosa,2,0.5,1.0
+Salmonella enteritidis B,1,1.0,1.0
+Salmonella enteritidis C2,1,0.0,1.0
+Salmonella enteritidis D,3,0.6666666666666666,1.0
+Salmonella spp.,1,0.0,0.0
+Serratia marcescens,3,0.3333333333333333,1.0

@@ -1,0 +1,261 @@
+Cohort,Variable,Missing Count,Missing %
+Development (CMUH),Gender,1,0.0
+Development (CMUH),WBC,5,0.02
+Development (CMUH),ANC,5,0.02
+Development (CMUH),NE_count,5,0.02
+Development (CMUH),MO_count,5,0.02
+Development (CMUH),LY_count,5,0.02
+Development (CMUH),BA_count,5,0.02
+Development (CMUH),EO_count,5,0.02
+Development (CMUH),HGB,5,0.02
+Development (CMUH),RBC,5,0.02
+Development (CMUH),PLT,5,0.02
+Development (CMUH),PLR,5,0.02
+Development (CMUH),MDW,1511,5.3
+Development (CMUH),PDW,5,0.02
+Development (CMUH),RDW,5,0.02
+Development (CMUH),MCV,5,0.02
+Development (CMUH),MCH,5,0.02
+Development (CMUH),MCHC,5,0.02
+Development (CMUH),HCT,5,0.02
+Development (CMUH),MN_AL2_EO,698,2.45
+Development (CMUH),MN_AL2_LY,2,0.01
+Development (CMUH),MN_AL2_MO,10,0.04
+Development (CMUH),MN_AL2_NE,2,0.01
+Development (CMUH),MN_C_EO,698,2.45
+Development (CMUH),MN_C_LY,2,0.01
+Development (CMUH),MN_C_MO,10,0.04
+Development (CMUH),MN_C_NE,2,0.01
+Development (CMUH),MN_LALS_EO,698,2.45
+Development (CMUH),MN_LALS_LY,2,0.01
+Development (CMUH),MN_LALS_MO,10,0.04
+Development (CMUH),MN_LALS_NE,2,0.01
+Development (CMUH),MN_LMALS_EO,698,2.45
+Development (CMUH),MN_LMALS_LY,2,0.01
+Development (CMUH),MN_LMALS_MO,10,0.04
+Development (CMUH),MN_LMALS_NE,2,0.01
+Development (CMUH),MN_MALS_EO,698,2.45
+Development (CMUH),MN_MALS_LY,2,0.01
+Development (CMUH),MN_MALS_MO,10,0.04
+Development (CMUH),MN_MALS_NE,2,0.01
+Development (CMUH),MN_UMALS_EO,698,2.45
+Development (CMUH),MN_UMALS_LY,2,0.01
+Development (CMUH),MN_UMALS_MO,10,0.04
+Development (CMUH),MN_UMALS_NE,2,0.01
+Development (CMUH),MN_V_EO,698,2.45
+Development (CMUH),MN_V_LY,2,0.01
+Development (CMUH),MN_V_MO,10,0.04
+Development (CMUH),MN_V_NE,2,0.01
+Development (CMUH),SD_AL2_EO,698,2.45
+Development (CMUH),SD_AL2_LY,2,0.01
+Development (CMUH),SD_AL2_MO,10,0.04
+Development (CMUH),SD_AL2_NE,2,0.01
+Development (CMUH),SD_C_EO,698,2.45
+Development (CMUH),SD_C_LY,2,0.01
+Development (CMUH),SD_C_MO,10,0.04
+Development (CMUH),SD_C_NE,2,0.01
+Development (CMUH),SD_LALS_EO,698,2.45
+Development (CMUH),SD_LALS_LY,2,0.01
+Development (CMUH),SD_LALS_MO,10,0.04
+Development (CMUH),SD_LALS_NE,2,0.01
+Development (CMUH),SD_LMALS_EO,698,2.45
+Development (CMUH),SD_LMALS_LY,2,0.01
+Development (CMUH),SD_LMALS_MO,10,0.04
+Development (CMUH),SD_LMALS_NE,2,0.01
+Development (CMUH),SD_MALS_EO,698,2.45
+Development (CMUH),SD_MALS_LY,2,0.01
+Development (CMUH),SD_MALS_MO,10,0.04
+Development (CMUH),SD_MALS_NE,2,0.01
+Development (CMUH),SD_UMALS_EO,698,2.45
+Development (CMUH),SD_UMALS_LY,2,0.01
+Development (CMUH),SD_UMALS_MO,10,0.04
+Development (CMUH),SD_UMALS_NE,2,0.01
+Development (CMUH),SD_V_EO,698,2.45
+Development (CMUH),SD_V_LY,2,0.01
+Development (CMUH),SD_V_MO,10,0.04
+Development (CMUH),SD_V_NE,2,0.01
+Development (CMUH),ED_ID,170,0.6
+Development (CMUH),ED_Time,98,0.34
+Development (CMUH),ED_DIS_Time,98,0.34
+Development (CMUH),SBP,1212,4.25
+Development (CMUH),DBP,1212,4.25
+Development (CMUH),HR,1104,3.87
+Development (CMUH),BT,317,1.11
+Development (CMUH),RR,201,0.71
+Development (CMUH),GCS_M,170,0.6
+Development (CMUH),delta_CBC_ED_Time,98,0.34
+Internal Test (CMUH),Gender,2,0.01
+Internal Test (CMUH),WBC,1,0.01
+Internal Test (CMUH),ANC,1,0.01
+Internal Test (CMUH),NE_count,1,0.01
+Internal Test (CMUH),MO_count,1,0.01
+Internal Test (CMUH),LY_count,1,0.01
+Internal Test (CMUH),BA_count,1,0.01
+Internal Test (CMUH),EO_count,1,0.01
+Internal Test (CMUH),HGB,1,0.01
+Internal Test (CMUH),RBC,1,0.01
+Internal Test (CMUH),PLT,1,0.01
+Internal Test (CMUH),NLR,1,0.01
+Internal Test (CMUH),PLR,2,0.01
+Internal Test (CMUH),MDW,738,4.67
+Internal Test (CMUH),PDW,1,0.01
+Internal Test (CMUH),RDW,1,0.01
+Internal Test (CMUH),MCV,1,0.01
+Internal Test (CMUH),MCH,1,0.01
+Internal Test (CMUH),MCHC,1,0.01
+Internal Test (CMUH),HCT,1,0.01
+Internal Test (CMUH),MN_AL2_EO,388,2.46
+Internal Test (CMUH),MN_C_EO,388,2.46
+Internal Test (CMUH),MN_LALS_EO,388,2.46
+Internal Test (CMUH),MN_LMALS_EO,388,2.46
+Internal Test (CMUH),MN_MALS_EO,388,2.46
+Internal Test (CMUH),MN_UMALS_EO,388,2.46
+Internal Test (CMUH),MN_V_EO,388,2.46
+Internal Test (CMUH),SD_AL2_EO,388,2.46
+Internal Test (CMUH),SD_C_EO,388,2.46
+Internal Test (CMUH),SD_LALS_EO,388,2.46
+Internal Test (CMUH),SD_LMALS_EO,388,2.46
+Internal Test (CMUH),SD_MALS_EO,388,2.46
+Internal Test (CMUH),SD_UMALS_EO,388,2.46
+Internal Test (CMUH),SD_V_EO,388,2.46
+Internal Test (CMUH),bloodcx_Value_36_8,15801,100.0
+Internal Test (CMUH),bloodcx_36_8_bac_1,15801,100.0
+Internal Test (CMUH),bloodcx_36_8_bac_2,15801,100.0
+Internal Test (CMUH),bloodcx_36_8_bac_3,15801,100.0
+Internal Test (CMUH),bloodcx_36_8_bac_1_label,15801,100.0
+Internal Test (CMUH),bloodcx_36_8_bac_2_label,15801,100.0
+Internal Test (CMUH),bloodcx_36_8_bac_3_label,15801,100.0
+Internal Test (CMUH),bloodcx_36_8_sub_label,15801,100.0
+Internal Test (CMUH),contamination_36_8,15801,100.0
+Internal Test (CMUH),bloodcx_duration_36_8,15801,100.0
+Internal Test (CMUH),bloodcx_draw_time_36_8,15801,100.0
+Internal Test (CMUH),ED_ID,43,0.27
+Internal Test (CMUH),ED_Time,19,0.12
+Internal Test (CMUH),ED_DIS_Time,19,0.12
+Internal Test (CMUH),SBP,281,1.78
+Internal Test (CMUH),DBP,282,1.78
+Internal Test (CMUH),HR,264,1.67
+Internal Test (CMUH),BT,92,0.58
+Internal Test (CMUH),RR,53,0.34
+Internal Test (CMUH),GCS_M,43,0.27
+Internal Test (CMUH),delta_CBC_ED_Time,19,0.12
+External (WMH),NLR,7,0.27
+External (WMH),PLR,7,0.27
+External (WMH),MDW,471,17.9
+External (WMH),MN_AL2_EO,80,3.04
+External (WMH),MN_AL2_LY,3,0.11
+External (WMH),MN_AL2_MO,5,0.19
+External (WMH),MN_C_EO,80,3.04
+External (WMH),MN_C_LY,3,0.11
+External (WMH),MN_C_MO,5,0.19
+External (WMH),MN_LALS_EO,80,3.04
+External (WMH),MN_LALS_LY,3,0.11
+External (WMH),MN_LALS_MO,5,0.19
+External (WMH),MN_LMALS_EO,80,3.04
+External (WMH),MN_LMALS_LY,3,0.11
+External (WMH),MN_LMALS_MO,5,0.19
+External (WMH),MN_MALS_EO,80,3.04
+External (WMH),MN_MALS_LY,3,0.11
+External (WMH),MN_MALS_MO,5,0.19
+External (WMH),MN_UMALS_EO,80,3.04
+External (WMH),MN_UMALS_LY,3,0.11
+External (WMH),MN_UMALS_MO,5,0.19
+External (WMH),MN_V_EO,80,3.04
+External (WMH),MN_V_LY,3,0.11
+External (WMH),MN_V_MO,5,0.19
+External (WMH),SD_AL2_EO,80,3.04
+External (WMH),SD_AL2_LY,3,0.11
+External (WMH),SD_AL2_MO,5,0.19
+External (WMH),SD_C_EO,80,3.04
+External (WMH),SD_C_LY,3,0.11
+External (WMH),SD_C_MO,5,0.19
+External (WMH),SD_LALS_EO,80,3.04
+External (WMH),SD_LALS_LY,3,0.11
+External (WMH),SD_LALS_MO,5,0.19
+External (WMH),SD_LMALS_EO,80,3.04
+External (WMH),SD_LMALS_LY,3,0.11
+External (WMH),SD_LMALS_MO,5,0.19
+External (WMH),SD_MALS_EO,80,3.04
+External (WMH),SD_MALS_LY,3,0.11
+External (WMH),SD_MALS_MO,5,0.19
+External (WMH),SD_UMALS_EO,80,3.04
+External (WMH),SD_UMALS_LY,3,0.11
+External (WMH),SD_UMALS_MO,5,0.19
+External (WMH),SD_V_EO,80,3.04
+External (WMH),SD_V_LY,3,0.11
+External (WMH),SD_V_MO,5,0.19
+External (ANH),WBC,2,0.05
+External (ANH),ANC,2,0.05
+External (ANH),NE_count,2,0.05
+External (ANH),MO_count,2,0.05
+External (ANH),LY_count,2,0.05
+External (ANH),BA_count,2,0.05
+External (ANH),EO_count,2,0.05
+External (ANH),HGB,28,0.73
+External (ANH),RBC,90,2.36
+External (ANH),PLT,31,0.81
+External (ANH),NLR,27,0.71
+External (ANH),PLR,58,1.52
+External (ANH),MDW,151,3.96
+External (ANH),PDW,3811,100.0
+External (ANH),RDW,90,2.36
+External (ANH),MCV,91,2.39
+External (ANH),MCH,90,2.36
+External (ANH),MCHC,90,2.36
+External (ANH),HCT,86,2.26
+External (ANH),MN_AL2_EO,53,1.39
+External (ANH),MN_AL2_LY,1,0.03
+External (ANH),MN_AL2_MO,1,0.03
+External (ANH),MN_AL2_NE,1,0.03
+External (ANH),MN_C_EO,53,1.39
+External (ANH),MN_C_LY,1,0.03
+External (ANH),MN_C_MO,1,0.03
+External (ANH),MN_C_NE,1,0.03
+External (ANH),MN_LALS_EO,53,1.39
+External (ANH),MN_LALS_LY,1,0.03
+External (ANH),MN_LALS_MO,1,0.03
+External (ANH),MN_LALS_NE,1,0.03
+External (ANH),MN_LMALS_EO,53,1.39
+External (ANH),MN_LMALS_LY,1,0.03
+External (ANH),MN_LMALS_MO,1,0.03
+External (ANH),MN_LMALS_NE,1,0.03
+External (ANH),MN_MALS_EO,53,1.39
+External (ANH),MN_MALS_LY,1,0.03
+External (ANH),MN_MALS_MO,1,0.03
+External (ANH),MN_MALS_NE,1,0.03
+External (ANH),MN_UMALS_EO,53,1.39
+External (ANH),MN_UMALS_LY,1,0.03
+External (ANH),MN_UMALS_MO,1,0.03
+External (ANH),MN_UMALS_NE,1,0.03
+External (ANH),MN_V_EO,53,1.39
+External (ANH),MN_V_LY,1,0.03
+External (ANH),MN_V_MO,1,0.03
+External (ANH),MN_V_NE,1,0.03
+External (ANH),SD_AL2_EO,53,1.39
+External (ANH),SD_AL2_LY,1,0.03
+External (ANH),SD_AL2_MO,1,0.03
+External (ANH),SD_AL2_NE,1,0.03
+External (ANH),SD_C_EO,53,1.39
+External (ANH),SD_C_LY,1,0.03
+External (ANH),SD_C_MO,1,0.03
+External (ANH),SD_C_NE,1,0.03
+External (ANH),SD_LALS_EO,53,1.39
+External (ANH),SD_LALS_LY,1,0.03
+External (ANH),SD_LALS_MO,1,0.03
+External (ANH),SD_LALS_NE,1,0.03
+External (ANH),SD_LMALS_EO,53,1.39
+External (ANH),SD_LMALS_LY,1,0.03
+External (ANH),SD_LMALS_MO,1,0.03
+External (ANH),SD_LMALS_NE,1,0.03
+External (ANH),SD_MALS_EO,53,1.39
+External (ANH),SD_MALS_LY,1,0.03
+External (ANH),SD_MALS_MO,1,0.03
+External (ANH),SD_MALS_NE,1,0.03
+External (ANH),SD_UMALS_EO,53,1.39
+External (ANH),SD_UMALS_LY,1,0.03
+External (ANH),SD_UMALS_MO,1,0.03
+External (ANH),SD_UMALS_NE,1,0.03
+External (ANH),SD_V_EO,53,1.39
+External (ANH),SD_V_LY,1,0.03
+External (ANH),SD_V_MO,1,0.03
+External (ANH),SD_V_NE,1,0.03

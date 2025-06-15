@@ -1,0 +1,19 @@
+bac,count,accuracy,bacteremia_accuracy
+Staphylococcus aureus(MRSA),11,36.4%,0.909090909
+Staphylococcus aureus,7,42.9%,1
+Streptococcus agalactiae (Strep. group B),5,20.0%,1
+Staphylococcus capitis,3,33.3%,0.666666667
+Clostridium perfringens,2,100.0%,1
+Staphylococcus epidermidis,2,50.0%,1
+Streptococcus agalactiae (Strep.group B),2,0.0%,0.5
+Streptococcus dysgalactiae ssp. equisimilis,2,100.0%,1
+Enterococcus faecalis,1,0.0%,1
+Finegoldia magna,1,0,1
+Staphylococcus auricularis,1,1,1
+Staphylococcus caprae,1,0,0
+Staphylococcus haemolyticus,1,1,1
+Staphylococcus hominis,1,0,0
+Streptococcus anginosus,1,1,1
+Streptococcus group D,1,0,1
+Streptococcus group G,1,0,1
+Streptococcus intermedius,1,0,0

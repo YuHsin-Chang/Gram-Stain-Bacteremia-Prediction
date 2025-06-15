@@ -1,0 +1,37 @@
+bac,count,accuracy,bacteremia_accuracy
+Escherichia coli,107,74.8%,89.7%
+Klebsiella pneumoniae ssp pneumoniae,25,88.0%,96.0%
+Pseudomonas aeruginosa,6,83.3%,100.0%
+Citrobacter koseri,4,75.0%,100.0%
+Enterobacter cloacae,4,100.0%,100.0%
+Proteus mirabilis,4,100.0%,100.0%
+Salmonella enteritidis D,4,50.0%,100.0%
+Vibrio vulnificus,4,75.0%,75.0%
+Acinetobacter baumannii/calcoaceticus complex,3,0.0%,100.0%
+Bacteroides fragilis,3,66.7%,100.0%
+Bacteroides uniformis,3,33.3%,66.7%
+Aeromonas caviae,2,100.0%,100.0%
+Klebsiella oxytoca,2,100.0%,100.0%
+Serratia marcescens,2,1,1
+Achromobacter species,1,1,1
+Acinetobacter lwoffii,1,1,1
+Aeromonas hydrophila,1,0,0
+Bacteroides ureolyticus,1,1,1
+Campylobacter spp.,1,1,1
+Chryseobacterium indologenes,1,1,1
+Edwardsiella tarda,1,1,1
+Elizabethkingia meningoseptica,1,1,1
+Enterobacter aerogenes,1,1,1
+Fusobacterium nucleatum,1,0,1
+Klebsiella pneumoniae ssp ozaenae,1,1,1
+Moraxella (Branhamella) catarrhalis,1,0,0
+Moraxella catarrhalis,1,1,1
+Morganella morganii,1,0,1
+Ochrobactrum anthropi,1,0,0
+Prevotella intermedia,1,1,1
+Pseudomonas putida,1,0,0
+Salmonella enteritidis C1,1,1,1
+Salmonella enteritidis C2,1,0,1
+Stenotrophomonas maltophilia,1,1,1
+Veillonella spp,1,1,1
+Vibrio parahaemolyticus,1,0,0
