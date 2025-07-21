@@ -9,17 +9,17 @@ Due to hospital data confidentiality agreements, we are unable to share original
 ---
 
 ## 📁 Folder Structure
+```
+├── cache/             # Placeholder for model outputs  
+├── data/              # Placeholder for training and validation data (not included)  
+├── notebook/          # Notebooks for experiments and evaluation  
+├── src/               # Source code (configuration and utility functions)  
+├── .gitignore         # Files and folders to be ignored by Git  
+├── LICENSE            # Project license file  
+├── README.md          # Project documentation  
+└── requirements.txt   # Required Python packages
+```
 
-├── cache/ # Placeholder for model outputs
-├── data/ # Placeholder for training and validation data (not included)
-├── notebook/ # Notebooks for experiments and evaluation
-├── src/ # Source code (configuration and utility functions)
-├── .gitignore # Files and folders to be ignored by Git
-├── LICENSE # Project license file
-├── README.md # Project documentation
-└── requirements.txt # Required Python packages
-
----
 
 ## 📃 File Descriptions
 
